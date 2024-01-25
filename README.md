@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Slade Berryman
 ======================================================================================================================================
 
-Data Science intern and CIS student
+Jr. Data Scientist and CIS student
 -----------------------------------
 
 I got my start as a Junior Network and System Administrator in 2021, but slowly converted to the Data Science world. Python is my most proficient language, which I use for statistical analysis and geospatial development. I have developed many full-stack web applications using the Flask framework and APIs. I also have much experience working with MySQL.
